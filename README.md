@@ -1,4 +1,4 @@
 # ProyectoSis2520
 Simulate a game of chance 
-# Implementación del juego de azar el buscador
-## El repositorio incluye el codigo de l
+## Simulación del juego de azar "El Buscador"
+Implementación en cpp del proyecto de Simulación de Sistemas
